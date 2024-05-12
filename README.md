@@ -22,27 +22,27 @@ The gameplay of this basketball shootout simulation game is designed to offer an
 At the start of the game the user will be displayed the introduction and will be prompted to enter a name for their player. 
  
 
-	After the user enters their name, the menu is displayed. The user is prompted to make a choice from these three options. This indicates the beginning of an interactive session with the game application.
+After the user enters their name, the menu is displayed. The user is prompted to make a choice from these three options. This indicates the beginning of an interactive session with the game application.
  
 	
-	If the user selected option 1, the following Game Rules tab would be displayed, and it will ask the user to enter a new menu number.
+If the user selected option 1, the following Game Rules tab would be displayed, and it will ask the user to enter a new menu number.
  
 
-	If the user selects option 2, it will display the list of the current players in the game lineup, including their created player.
+If the user selects option 2, it will display the list of the current players in the game lineup, including their created player.
  
 
-	When the user selects option 3, the game will be started. Initiating the user to choose their shot, their options are either a 2-point shot or a 3-point shot, each with their respective chances of making and missing detailed in the Game Rules Menu. 
+When the user selects option 3, the game will be started. Initiating the user to choose their shot, their options are either a 2-point shot or a 3-point shot, each with their respective chances of making and missing detailed in the Game Rules Menu. 
  
 
 The user will then select which option they prefer and then the round will commence detailing what all of the players selected for their shot option, then will show underneath if that player makes or misses their shot.
  
 
-	This process will repeat for 5 rounds, displaying the updated statistics after every round. Once all the five rounds are completed, the program will then display the current scores at the end of the round, and highlight the winner and will display their final points again. 
+This process will repeat for 5 rounds, displaying the updated statistics after every round. Once all the five rounds are completed, the program will then display the current scores at the end of the round, and highlight the winner and will display their final points again. 
  
 
-	In the event of a tie, both users will be displayed as winners, and will both be celebrated. Once the winners are announced the game will be over and the program will now end.
+In the event of a tie, both users will be displayed as winners, and will both be celebrated. Once the winners are announced the game will be over and the program will now end.
 
-	The Code will be provided below, I put extensive details using in-line comments on most sections of the code to help with a better understanding of what the code does and its expected actions.
+The Code will be provided below, I put extensive details using in-line comments on most sections of the code to help with a better understanding of what the code does and its expected actions.
 
 
 Main.cpp: 
